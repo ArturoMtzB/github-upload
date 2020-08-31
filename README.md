@@ -1,3 +1,2 @@
 # github-upload
-this is a course of GitHub Lab
-And this is the 2nd commit of the proyect
+I've already passed this course and I'm adding some line to it.
